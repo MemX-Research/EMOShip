@@ -12,7 +12,14 @@ If you use this dataset in your work, please cite our paper:
   doi = {10.1145/3463509}
 }
 
-TBD
+@article{zhao2022smart,
+  title = {Do Smart Glasses Dream of Sentimental Visions? Deep Emotionship Analysis for Eyewear Devices},
+  author = {Zhao, Yingying and Chang, Yuhu and Lu, Yutian and Wang, Yujiang and Dong, Mingzhi and Lv, Qin and Dick, Robert P. and Yang, Fan and Lu, Tun and Gu, Ning and Shang, Li},
+  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  year = {2022},
+  doi = {10.1145/3517250}
+}
+
 ```
 
 ## Dataset
@@ -20,7 +27,7 @@ The data of EMO-Film dataset is collected in a controlled laboratory environment
 
 Due to the privacy concerns raised by some volunteers, we cannot release the full dataset with all 25 the subjects included. However, following the outcomes of the privacy survey, we are able to make public a filtered version of our dataset, which consists of 16 subjects giving their permissions to release the data. The videos from the rest 9 participants are therefore omitted to protect their privacy.
 
-The dataset can be downloaded [here](#) (TBD).
+The dataset can be downloaded [here](https://www.dropbox.com/s/eob69vsz90qf7uf/EMO-Film.tar.gz).
 
 ## Data Format
 EMO-Film has two parts and a csv file:
