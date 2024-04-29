@@ -3,7 +3,7 @@
 This repository contains the EMO-Film dataset described in the paper "Do Smart Glasses Dream of Sentimental Visions? Deep Emotionship Analysis for Eyewear Devices".
 
 If you use this dataset in your work, please cite our paper:
-```
+```bibtex
 @article{chang2021memx,
   title={MemX: An Attention-Aware Smart Eyewear System for Personalized Moment Auto-capture},
   author={Chang, Yuhu and Zhao, Yingying and Dong, Mingzhi and Wang, Yujiang and Lu, Yutian and Lv, Qin and Dick, Robert P and Lu, Tun and Gu, Ning and Shang, Li},
